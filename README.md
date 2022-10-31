@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JogiOktavianus
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning a python and xml using odoo framework in my company that im work with.
+- 🌱 I’m currently learning a Java framework in my company that im work with.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
